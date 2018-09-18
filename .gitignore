@@ -1,0 +1,10 @@
+*.pyc
+*.sqlite3
+*.orig
+*.DS_Store
+*.db
+*.log
+*.mo
+/media/
+CACHE
+/.idea
